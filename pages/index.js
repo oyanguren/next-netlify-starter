@@ -14,11 +14,10 @@ export default function Home() {
         <Header title="UA FAQ 1" />
         <p className="description">
           Vamos a Comenzar <code>pages/index.js</code>
+    <a href="chat.html">Ir a Otra Página</a>
         </p>
 
-<body>        
-<a href="chat.html">Ir a Otra Página</a>
-</body>
+
 
 
     
