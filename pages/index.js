@@ -7,8 +7,14 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Chat Bot UA</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.ico" />    
+      </Head>
 
+      <main>
+        <Header title="UA FAQ" />
+        <p className="description">
+          Vamos a Comenzar <code>pages/index.js</code>
+        </p>
 
         <script type="text/javascript">
           (function(d, t) {
@@ -29,14 +35,8 @@ export default function Home() {
 
 
 
-    
-      </Head>
 
-      <main>
-        <Header title="UA" />
-        <p className="description">
-          Vamos a Comenzar <code>pages/index.js</code>
-        </p>
+    
       </main>
 
       <Footer />
