@@ -16,7 +16,7 @@ export default function Home() {
           Vamos a Comenzar <code>pages/index.js</code>
         </p>
 
-        
+<body>        
 <script type="text/javascript">
   (function(d, t) {
       var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
@@ -33,7 +33,7 @@ export default function Home() {
       v.src = "https://cdn.voiceflow.com/widget-next/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
   })(document, 'script');
 </script>
-
+</body>
 
 
     
