@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="UA FAQ----------" />
+        <Header title="UA FAQ" />
         <p className="description">
           Vamos a Comenzar <code>pages/index.js</code>
         </p>
