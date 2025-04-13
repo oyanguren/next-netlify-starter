@@ -10,14 +10,15 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />    
       </Head>
 
-      
+      <body>
       <main>
-          <Header title="UA FAQ 1" />
+          <Header title="UA FAQ" />
           <p className="description">
             Vamos a Comenzar <code>pages/index.js</code>
             
           </p>    
-      </main>    
+      </main>
+    </body>
     
 
       <Footer />
